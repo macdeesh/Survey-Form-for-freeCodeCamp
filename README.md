@@ -8,7 +8,7 @@ This is a solution to the [Survey Form project](https://www.freecodecamp.org/lea
 ### Links
 
 - Solution URL: [https://github.com/macdeesh/Survey-Form-for-freeCodeCamp]
-- Live Site URL: []
+- Live Site URL: [https://macdeesh.github.io/Survey-Form-for-freeCodeCamp/]
 
 #### What I learned
 This is my first form project. I learned how to create a form with an ```id``` and ```method="post"```. Inside the form there is different ```<div>``` some of the divs ```type="text"``` for the name with a ``` <label for="name" id="name-label" class="input-title">Name</label>``` and ```<input type="text" id="name" name="user-name" placeholder="Enter your name" autocomplete="on" required>```. the ```<input>```:```id``` should have the value of the ```<label>```:```for```. The ```placeholder``` to describes the expected value of an input field, the ```autocomlete``` enable the browser to predict the value to the input field and ```required``` specifies that an input field must be filled out before submitting the form.
